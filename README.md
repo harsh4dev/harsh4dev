@@ -14,7 +14,6 @@
 - 🌐 Portfolio: [harshchaudhary.com.np](https://harshchaudhary.com.np)  
 - 🧑‍💼 LinkedIn: [linkedin.com/in/harshchy143](https://linkedin.com/in/harshchy143)  
 - 💻 GitHub: [github.com/harsh4dev](https://github.com/harsh4dev)  
-- 📱 Phone: +977 9807718500  
 
 ---
 
