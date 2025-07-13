@@ -12,7 +12,7 @@
 
 - 📧 Email: **harshchy143@gmail.com**  
 - 🌐 Portfolio: [harshchaudhary.com.np](https://harshchaudhary.com.np)  
-- 🧑‍💼 LinkedIn: [linkedin.com/in/harshchy143](https://linkedin.com/in/harshchy143)  
+- 🧑‍💼 LinkedIn: [linkedin.com/in/harshchy143](https://www.linkedin.com/in/harsh-chaudharii/)  
 - 💻 GitHub: [github.com/harsh4dev](https://github.com/harsh4dev)  
 
 ---
@@ -21,7 +21,7 @@
 
 - 🎓 **Software Engineering Graduate (2022)** from **NCIT, Pokhara University**
 - 💡 I love building intelligent, useful and clean web applications.
-- 🎬 I also run a **YouTube channel [Techy Guy](https://www.youtube.com/@TechyGuy)** to share tech knowledge.
+- 🎬 I also run a **YouTube channel [Techy Guy](https://www.youtube.com/@TechyGuynp)** to share tech knowledge.
 - ⚡ Fun Fact: I created a Python-based J.A.R.V.I.S.-inspired assistant called **Bantu AI**
 
 ---
