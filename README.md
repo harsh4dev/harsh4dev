@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Harsh Chaudhary</h1>
-<h3 align="center">A passionate Full-Stack Developer, AI enthusiast & Content Creator</h3>
+<h3 align="center">A passionate Software Engineer, Full-Stack Developer, AI enthusiast & Content Creator</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300">
