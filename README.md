@@ -56,7 +56,7 @@
 - 🔹 **[Personal Portfolio](#)** (Laravel)  
   ➤ Responsive & cleanly structured portfolio showcasing projects & skills
 
-  - 🔹 **[Lan Chat Room With File Transfer](#)** (C++ with GUI)  
+- 🔹 **[Lan Chat Room With File Transfer](#)** (C++ with GUI)  
   ➤ A real-time multi-user chat and file sharing system over a local area network (LAN)
 
 ---
