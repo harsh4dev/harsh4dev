@@ -59,6 +59,9 @@
 - 🔹 **[Lan Chat Room With File Transfer](https://github.com/harsh4dev/LanChatroomNP)** (C++ with GUI)  
   ➤ A real-time multi-user chat and file sharing system over a local area network (LAN)
 
+- 🔹 **[KinBech - eCommerce Website](https://github.com/harsh4dev/KinBech-eCommerce)** (PHP & MySQL)  
+  ➤ Built as academic project, an responsive and cleanly structuerd e-commerce website.
+
 ---
 
 ### 🏅 Certifications & Achievements
