@@ -53,10 +53,10 @@
 - 🔹 **[Pets Management System](#)** (Laravel, Tailwind, MySQL)  
   ➤ Created for Mahanagar Pet Shop | Boosted user engagement by **60%**
 
-- 🔹 **[Personal Portfolio](#)** (Laravel)  
+- 🔹 **[Personal Portfolio](https://harshchaudhary.com.np/)** (Laravel)  
   ➤ Responsive & cleanly structured portfolio showcasing projects & skills
 
-- 🔹 **[Lan Chat Room With File Transfer](#)** (C++ with GUI)  
+- 🔹 **[Lan Chat Room With File Transfer](https://github.com/harsh4dev/LanChatroomNP)** (C++ with GUI)  
   ➤ A real-time multi-user chat and file sharing system over a local area network (LAN)
 
 ---
@@ -86,6 +86,22 @@
 
 </p>
 
+---
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harsh4dev&theme=radical&margin-w=10&no-bg=true&no-frame=true" />
+</p>
+
+---
+
+### 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh4dev&layout=compact&theme=radical" />
+</p>
 ---
 
 <p align="center">
