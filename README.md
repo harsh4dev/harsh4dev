@@ -102,6 +102,12 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh4dev&layout=compact&theme=radical" />
 </p>
+
+---
+### 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=harsh4dev&color=blueviolet&style=flat)
+
 ---
 
 <p align="center">
