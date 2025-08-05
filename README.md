@@ -90,7 +90,6 @@
 </p>
 
 ---
----
 
 ### 🏆 GitHub Trophies
 
@@ -106,7 +105,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh4dev&layout=compact&theme=radical" />
 </p>
 
----
 [![Harry's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harsh4dev&theme=react-dark)](https://github.com/harsh4dev/github-readme-activity-graph)
 
 ---
