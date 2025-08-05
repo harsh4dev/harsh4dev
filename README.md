@@ -99,8 +99,6 @@
 
 ---
 
-### 📊 Most Used Languages
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh4dev&layout=compact&theme=radical" />
 </p>
