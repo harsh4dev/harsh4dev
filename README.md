@@ -107,6 +107,10 @@
 </p>
 
 ---
+[![Harry's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harsh4dev&theme=dracula)](https://github.com/harsh4dev/github-readme-activity-graph)
+
+---
+---
 ### 👀 Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=harsh4dev&color=blueviolet&style=flat)
