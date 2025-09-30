@@ -62,6 +62,9 @@
 - 🔹 **[KinBech - eCommerce Website](https://github.com/harsh4dev/KinBech-eCommerce)** (PHP & MySQL)  
   ➤ Built as academic project, an responsive and cleanly structuerd e-commerce website.
 
+- 🔹 **[SwiftHarryDM - Universal Download Manager](https://swiftharrydm.harshchaudhary.com.np)** (Python & Node.js)  
+  ➤ Built as a small business model, modern, lightweight download manager built in Nepal. Enjoy faster, smarter downloads with browser extension support, auto-updates.
+
 ---
 
 ### 🏅 Certifications & Achievements
