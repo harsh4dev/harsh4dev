@@ -65,6 +65,9 @@
 - 🔹 **[SwiftHarryDM - Universal Download Manager](https://swiftharrydm.harshchaudhary.com.np)** (Python & Node.js)  
   ➤ Built as a small business model, modern, lightweight download manager built in Nepal. Enjoy faster, smarter downloads with browser extension support, auto-updates.
 
+- 🔹 **[ElysianCreations - Elysian CC Portfolio](https://swiftharrydm.harshchaudhary.com.np)** (React & Tailwind CSS)  
+  ➤ High Quality Portfolio website for Elysian Creations to showcase their work beautifully.
+
 ---
 
 ### 🏅 Certifications & Achievements
