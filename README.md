@@ -104,6 +104,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=harsh4dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=harsh4dev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh4dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 </p>
 
 [![Harry's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harsh4dev&theme=react-dark)](https://github.com/harsh4dev/github-readme-activity-graph)
